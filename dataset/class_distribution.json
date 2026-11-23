@@ -1,0 +1,618 @@
+[
+  {
+    "id": 15,
+    "label": "card_payment_fee_charged",
+    "display_name": "Card payment fee charged",
+    "train_count": 187,
+    "test_count": 40,
+    "total_count": 227
+  },
+  {
+    "id": 28,
+    "label": "direct_debit_payment_not_recognised",
+    "display_name": "Direct debit payment not recognised",
+    "train_count": 182,
+    "test_count": 40,
+    "total_count": 222
+  },
+  {
+    "id": 6,
+    "label": "balance_not_updated_after_cheque_or_cash_deposit",
+    "display_name": "Balance not updated after cheque or cash deposit",
+    "train_count": 181,
+    "test_count": 40,
+    "total_count": 221
+  },
+  {
+    "id": 75,
+    "label": "wrong_amount_of_cash_received",
+    "display_name": "Wrong amount of cash received",
+    "train_count": 180,
+    "test_count": 40,
+    "total_count": 220
+  },
+  {
+    "id": 19,
+    "label": "cash_withdrawal_charge",
+    "display_name": "Cash withdrawal charge",
+    "train_count": 177,
+    "test_count": 40,
+    "total_count": 217
+  },
+  {
+    "id": 63,
+    "label": "transaction_charged_twice",
+    "display_name": "Transaction charged twice",
+    "train_count": 175,
+    "test_count": 40,
+    "total_count": 215
+  },
+  {
+    "id": 26,
+    "label": "declined_cash_withdrawal",
+    "display_name": "Declined cash withdrawal",
+    "train_count": 173,
+    "test_count": 40,
+    "total_count": 213
+  },
+  {
+    "id": 64,
+    "label": "transfer_fee_charged",
+    "display_name": "Transfer fee charged",
+    "train_count": 172,
+    "test_count": 40,
+    "total_count": 212
+  },
+  {
+    "id": 5,
+    "label": "balance_not_updated_after_bank_transfer",
+    "display_name": "Balance not updated after bank transfer",
+    "train_count": 171,
+    "test_count": 40,
+    "total_count": 211
+  },
+  {
+    "id": 66,
+    "label": "transfer_not_received_by_recipient",
+    "display_name": "Transfer not received by recipient",
+    "train_count": 171,
+    "test_count": 40,
+    "total_count": 211
+  },
+  {
+    "id": 52,
+    "label": "request_refund",
+    "display_name": "Request refund",
+    "train_count": 169,
+    "test_count": 40,
+    "total_count": 209
+  },
+  {
+    "id": 16,
+    "label": "card_payment_not_recognised",
+    "display_name": "Card payment not recognised",
+    "train_count": 168,
+    "test_count": 40,
+    "total_count": 208
+  },
+  {
+    "id": 17,
+    "label": "card_payment_wrong_exchange_rate",
+    "display_name": "Card payment wrong exchange rate",
+    "train_count": 167,
+    "test_count": 40,
+    "total_count": 207
+  },
+  {
+    "id": 34,
+    "label": "extra_charge_on_statement",
+    "display_name": "Extra charge on statement",
+    "train_count": 166,
+    "test_count": 40,
+    "total_count": 206
+  },
+  {
+    "id": 76,
+    "label": "wrong_exchange_rate_for_cash_withdrawal",
+    "display_name": "Wrong exchange rate for cash withdrawal",
+    "train_count": 163,
+    "test_count": 40,
+    "total_count": 203
+  },
+  {
+    "id": 51,
+    "label": "Refund_not_showing_up",
+    "display_name": "Refund not showing up",
+    "train_count": 162,
+    "test_count": 40,
+    "total_count": 202
+  },
+  {
+    "id": 53,
+    "label": "reverted_card_payment?",
+    "display_name": "Reverted card payment?",
+    "train_count": 161,
+    "test_count": 40,
+    "total_count": 201
+  },
+  {
+    "id": 20,
+    "label": "cash_withdrawal_not_recognised",
+    "display_name": "Cash withdrawal not recognised",
+    "train_count": 160,
+    "test_count": 40,
+    "total_count": 200
+  },
+  {
+    "id": 0,
+    "label": "activate_my_card",
+    "display_name": "Activate my card",
+    "train_count": 159,
+    "test_count": 40,
+    "total_count": 199
+  },
+  {
+    "id": 45,
+    "label": "pending_card_payment",
+    "display_name": "Pending card payment",
+    "train_count": 159,
+    "test_count": 40,
+    "total_count": 199
+  },
+  {
+    "id": 8,
+    "label": "cancel_transfer",
+    "display_name": "Cancel transfer",
+    "train_count": 157,
+    "test_count": 40,
+    "total_count": 197
+  },
+  {
+    "id": 7,
+    "label": "beneficiary_not_allowed",
+    "display_name": "Beneficiary not allowed",
+    "train_count": 156,
+    "test_count": 40,
+    "total_count": 196
+  },
+  {
+    "id": 11,
+    "label": "card_arrival",
+    "display_name": "Card arrival",
+    "train_count": 153,
+    "test_count": 40,
+    "total_count": 193
+  },
+  {
+    "id": 25,
+    "label": "declined_card_payment",
+    "display_name": "Declined card payment",
+    "train_count": 153,
+    "test_count": 40,
+    "total_count": 193
+  },
+  {
+    "id": 47,
+    "label": "pending_top_up",
+    "display_name": "Pending top up",
+    "train_count": 149,
+    "test_count": 40,
+    "total_count": 189
+  },
+  {
+    "id": 48,
+    "label": "pending_transfer",
+    "display_name": "Pending transfer",
+    "train_count": 148,
+    "test_count": 40,
+    "total_count": 188
+  },
+  {
+    "id": 61,
+    "label": "top_up_reverted",
+    "display_name": "Top up reverted",
+    "train_count": 146,
+    "test_count": 40,
+    "total_count": 186
+  },
+  {
+    "id": 59,
+    "label": "top_up_failed",
+    "display_name": "Top up failed",
+    "train_count": 145,
+    "test_count": 40,
+    "total_count": 185
+  },
+  {
+    "id": 46,
+    "label": "pending_cash_withdrawal",
+    "display_name": "Pending cash withdrawal",
+    "train_count": 143,
+    "test_count": 40,
+    "total_count": 183
+  },
+  {
+    "id": 13,
+    "label": "card_linking",
+    "display_name": "Card linking",
+    "train_count": 139,
+    "test_count": 40,
+    "total_count": 179
+  },
+  {
+    "id": 35,
+    "label": "failed_transfer",
+    "display_name": "Failed transfer",
+    "train_count": 137,
+    "test_count": 40,
+    "total_count": 177
+  },
+  {
+    "id": 73,
+    "label": "visa_or_mastercard",
+    "display_name": "Visa or mastercard",
+    "train_count": 135,
+    "test_count": 40,
+    "total_count": 175
+  },
+  {
+    "id": 27,
+    "label": "declined_transfer",
+    "display_name": "Declined transfer",
+    "train_count": 133,
+    "test_count": 40,
+    "total_count": 173
+  },
+  {
+    "id": 9,
+    "label": "card_about_to_expire",
+    "display_name": "Card about to expire",
+    "train_count": 129,
+    "test_count": 40,
+    "total_count": 169
+  },
+  {
+    "id": 24,
+    "label": "country_support",
+    "display_name": "Country support",
+    "train_count": 129,
+    "test_count": 40,
+    "total_count": 169
+  },
+  {
+    "id": 39,
+    "label": "getting_spare_card",
+    "display_name": "Getting spare card",
+    "train_count": 129,
+    "test_count": 40,
+    "total_count": 169
+  },
+  {
+    "id": 54,
+    "label": "supported_cards_and_currencies",
+    "display_name": "Supported cards and currencies",
+    "train_count": 129,
+    "test_count": 40,
+    "total_count": 169
+  },
+  {
+    "id": 67,
+    "label": "transfer_timing",
+    "display_name": "Transfer timing",
+    "train_count": 128,
+    "test_count": 40,
+    "total_count": 168
+  },
+  {
+    "id": 4,
+    "label": "automatic_top_up",
+    "display_name": "Automatic top up",
+    "train_count": 127,
+    "test_count": 40,
+    "total_count": 167
+  },
+  {
+    "id": 2,
+    "label": "apple_pay_or_google_pay",
+    "display_name": "Apple pay or google pay",
+    "train_count": 126,
+    "test_count": 40,
+    "total_count": 166
+  },
+  {
+    "id": 36,
+    "label": "fiat_currency_support",
+    "display_name": "Fiat currency support",
+    "train_count": 126,
+    "test_count": 40,
+    "total_count": 166
+  },
+  {
+    "id": 71,
+    "label": "verify_top_up",
+    "display_name": "Verify top up",
+    "train_count": 126,
+    "test_count": 40,
+    "total_count": 166
+  },
+  {
+    "id": 21,
+    "label": "change_pin",
+    "display_name": "Change pin",
+    "train_count": 122,
+    "test_count": 40,
+    "total_count": 162
+  },
+  {
+    "id": 29,
+    "label": "disposable_card_limits",
+    "display_name": "Disposable card limits",
+    "train_count": 121,
+    "test_count": 40,
+    "total_count": 161
+  },
+  {
+    "id": 30,
+    "label": "edit_personal_details",
+    "display_name": "Edit personal details",
+    "train_count": 121,
+    "test_count": 40,
+    "total_count": 161
+  },
+  {
+    "id": 31,
+    "label": "exchange_charge",
+    "display_name": "Exchange charge",
+    "train_count": 121,
+    "test_count": 40,
+    "total_count": 161
+  },
+  {
+    "id": 42,
+    "label": "lost_or_stolen_phone",
+    "display_name": "Lost or stolen phone",
+    "train_count": 121,
+    "test_count": 40,
+    "total_count": 161
+  },
+  {
+    "id": 74,
+    "label": "why_verify_identity",
+    "display_name": "Why verify identity",
+    "train_count": 121,
+    "test_count": 40,
+    "total_count": 161
+  },
+  {
+    "id": 43,
+    "label": "order_physical_card",
+    "display_name": "Order physical card",
+    "train_count": 120,
+    "test_count": 40,
+    "total_count": 160
+  },
+  {
+    "id": 33,
+    "label": "exchange_via_app",
+    "display_name": "Exchange via app",
+    "train_count": 118,
+    "test_count": 40,
+    "total_count": 158
+  },
+  {
+    "id": 49,
+    "label": "pin_blocked",
+    "display_name": "Pin blocked",
+    "train_count": 115,
+    "test_count": 40,
+    "total_count": 155
+  },
+  {
+    "id": 57,
+    "label": "top_up_by_card_charge",
+    "display_name": "Top up by card charge",
+    "train_count": 114,
+    "test_count": 40,
+    "total_count": 154
+  },
+  {
+    "id": 58,
+    "label": "top_up_by_cash_or_cheque",
+    "display_name": "Top up by cash or cheque",
+    "train_count": 114,
+    "test_count": 40,
+    "total_count": 154
+  },
+  {
+    "id": 65,
+    "label": "transfer_into_account",
+    "display_name": "Transfer into account",
+    "train_count": 113,
+    "test_count": 40,
+    "total_count": 153
+  },
+  {
+    "id": 70,
+    "label": "verify_source_of_funds",
+    "display_name": "Verify source of funds",
+    "train_count": 113,
+    "test_count": 40,
+    "total_count": 153
+  },
+  {
+    "id": 12,
+    "label": "card_delivery_estimate",
+    "display_name": "Card delivery estimate",
+    "train_count": 112,
+    "test_count": 40,
+    "total_count": 152
+  },
+  {
+    "id": 14,
+    "label": "card_not_working",
+    "display_name": "Card not working",
+    "train_count": 112,
+    "test_count": 40,
+    "total_count": 152
+  },
+  {
+    "id": 32,
+    "label": "exchange_rate",
+    "display_name": "Exchange rate",
+    "train_count": 112,
+    "test_count": 40,
+    "total_count": 152
+  },
+  {
+    "id": 56,
+    "label": "top_up_by_bank_transfer_charge",
+    "display_name": "Top up by bank transfer charge",
+    "train_count": 111,
+    "test_count": 40,
+    "total_count": 151
+  },
+  {
+    "id": 1,
+    "label": "age_limit",
+    "display_name": "Age limit",
+    "train_count": 110,
+    "test_count": 40,
+    "total_count": 150
+  },
+  {
+    "id": 55,
+    "label": "terminate_account",
+    "display_name": "Terminate account",
+    "train_count": 108,
+    "test_count": 40,
+    "total_count": 148
+  },
+  {
+    "id": 38,
+    "label": "get_physical_card",
+    "display_name": "Get physical card",
+    "train_count": 106,
+    "test_count": 40,
+    "total_count": 146
+  },
+  {
+    "id": 44,
+    "label": "passcode_forgotten",
+    "display_name": "Passcode forgotten",
+    "train_count": 105,
+    "test_count": 40,
+    "total_count": 145
+  },
+  {
+    "id": 69,
+    "label": "verify_my_identity",
+    "display_name": "Verify my identity",
+    "train_count": 104,
+    "test_count": 40,
+    "total_count": 144
+  },
+  {
+    "id": 62,
+    "label": "topping_up_by_card",
+    "display_name": "Topping up by card",
+    "train_count": 103,
+    "test_count": 40,
+    "total_count": 143
+  },
+  {
+    "id": 68,
+    "label": "unable_to_verify_identity",
+    "display_name": "Unable to verify identity",
+    "train_count": 102,
+    "test_count": 40,
+    "total_count": 142
+  },
+  {
+    "id": 40,
+    "label": "getting_virtual_card",
+    "display_name": "Getting virtual card",
+    "train_count": 98,
+    "test_count": 40,
+    "total_count": 138
+  },
+  {
+    "id": 37,
+    "label": "get_disposable_virtual_card",
+    "display_name": "Get disposable virtual card",
+    "train_count": 97,
+    "test_count": 40,
+    "total_count": 137
+  },
+  {
+    "id": 60,
+    "label": "top_up_limits",
+    "display_name": "Top up limits",
+    "train_count": 97,
+    "test_count": 40,
+    "total_count": 137
+  },
+  {
+    "id": 50,
+    "label": "receiving_money",
+    "display_name": "Receiving money",
+    "train_count": 95,
+    "test_count": 40,
+    "total_count": 135
+  },
+  {
+    "id": 3,
+    "label": "atm_support",
+    "display_name": "Atm support",
+    "train_count": 87,
+    "test_count": 40,
+    "total_count": 127
+  },
+  {
+    "id": 22,
+    "label": "compromised_card",
+    "display_name": "Compromised card",
+    "train_count": 86,
+    "test_count": 40,
+    "total_count": 126
+  },
+  {
+    "id": 41,
+    "label": "lost_or_stolen_card",
+    "display_name": "Lost or stolen card",
+    "train_count": 82,
+    "test_count": 40,
+    "total_count": 122
+  },
+  {
+    "id": 18,
+    "label": "card_swallowed",
+    "display_name": "Card swallowed",
+    "train_count": 61,
+    "test_count": 40,
+    "total_count": 101
+  },
+  {
+    "id": 10,
+    "label": "card_acceptance",
+    "display_name": "Card acceptance",
+    "train_count": 59,
+    "test_count": 40,
+    "total_count": 99
+  },
+  {
+    "id": 72,
+    "label": "virtual_card_not_working",
+    "display_name": "Virtual card not working",
+    "train_count": 41,
+    "test_count": 40,
+    "total_count": 81
+  },
+  {
+    "id": 23,
+    "label": "contactless_not_working",
+    "display_name": "Contactless not working",
+    "train_count": 35,
+    "test_count": 40,
+    "total_count": 75
+  }
+]

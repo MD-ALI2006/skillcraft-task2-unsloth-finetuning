@@ -1,0 +1,52 @@
+[
+  {
+    "query": "I am still waiting on my card?",
+    "intent": "card_arrival",
+    "formatted_prompt": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nIdentify the specific banking intent behind the customer's query. Output the result in valid JSON with 'intent' and 'confidence'.\n\n### Input:\nI am still waiting on my card?\n\n### Response:\n{\"intent\": \"card_arrival\", \"confidence\": \"high\"}"
+  },
+  {
+    "query": "What can I do if my card still hasn't arrived after 2 weeks?",
+    "intent": "card_arrival",
+    "formatted_prompt": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nIdentify the specific banking intent behind the customer's query. Output the result in valid JSON with 'intent' and 'confidence'.\n\n### Input:\nWhat can I do if my card still hasn't arrived after 2 weeks?\n\n### Response:\n{\"intent\": \"card_arrival\", \"confidence\": \"high\"}"
+  },
+  {
+    "query": "I have been waiting over a week. Is the card still coming?",
+    "intent": "card_arrival",
+    "formatted_prompt": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nIdentify the specific banking intent behind the customer's query. Output the result in valid JSON with 'intent' and 'confidence'.\n\n### Input:\nI have been waiting over a week. Is the card still coming?\n\n### Response:\n{\"intent\": \"card_arrival\", \"confidence\": \"high\"}"
+  },
+  {
+    "query": "Can I track my card while it is in the process of delivery?",
+    "intent": "card_arrival",
+    "formatted_prompt": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nIdentify the specific banking intent behind the customer's query. Output the result in valid JSON with 'intent' and 'confidence'.\n\n### Input:\nCan I track my card while it is in the process of delivery?\n\n### Response:\n{\"intent\": \"card_arrival\", \"confidence\": \"high\"}"
+  },
+  {
+    "query": "How do I know if I will get my card, or if it is lost?",
+    "intent": "card_arrival",
+    "formatted_prompt": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nIdentify the specific banking intent behind the customer's query. Output the result in valid JSON with 'intent' and 'confidence'.\n\n### Input:\nHow do I know if I will get my card, or if it is lost?\n\n### Response:\n{\"intent\": \"card_arrival\", \"confidence\": \"high\"}"
+  },
+  {
+    "query": "When did you send me my new card?",
+    "intent": "card_arrival",
+    "formatted_prompt": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nIdentify the specific banking intent behind the customer's query. Output the result in valid JSON with 'intent' and 'confidence'.\n\n### Input:\nWhen did you send me my new card?\n\n### Response:\n{\"intent\": \"card_arrival\", \"confidence\": \"high\"}"
+  },
+  {
+    "query": "Do you have info about the card on delivery?",
+    "intent": "card_arrival",
+    "formatted_prompt": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nIdentify the specific banking intent behind the customer's query. Output the result in valid JSON with 'intent' and 'confidence'.\n\n### Input:\nDo you have info about the card on delivery?\n\n### Response:\n{\"intent\": \"card_arrival\", \"confidence\": \"high\"}"
+  },
+  {
+    "query": "What do I do if I still have not received my new card?",
+    "intent": "card_arrival",
+    "formatted_prompt": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nIdentify the specific banking intent behind the customer's query. Output the result in valid JSON with 'intent' and 'confidence'.\n\n### Input:\nWhat do I do if I still have not received my new card?\n\n### Response:\n{\"intent\": \"card_arrival\", \"confidence\": \"high\"}"
+  },
+  {
+    "query": "Does the package with my card have tracking?",
+    "intent": "card_arrival",
+    "formatted_prompt": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nIdentify the specific banking intent behind the customer's query. Output the result in valid JSON with 'intent' and 'confidence'.\n\n### Input:\nDoes the package with my card have tracking?\n\n### Response:\n{\"intent\": \"card_arrival\", \"confidence\": \"high\"}"
+  },
+  {
+    "query": "I ordered my card but it still isn't here",
+    "intent": "card_arrival",
+    "formatted_prompt": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nIdentify the specific banking intent behind the customer's query. Output the result in valid JSON with 'intent' and 'confidence'.\n\n### Input:\nI ordered my card but it still isn't here\n\n### Response:\n{\"intent\": \"card_arrival\", \"confidence\": \"high\"}"
+  }
+]

@@ -1,0 +1,25 @@
+# SkillCraft Technology AI Engineering Internship - Task 2
+# Parameter-Efficient Fine-Tuning with Unsloth and LoRA
+
+# Web Application Backend Dependencies
+fastapi>=0.115.0
+uvicorn>=0.30.0
+pydantic>=2.9.0
+python-multipart>=0.0.12
+datasets>=3.0.0
+scikit-learn>=1.5.0
+pandas>=2.2.0
+numpy>=1.26.0
+requests>=2.31.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+nbformat>=5.9.0
+
+# Google Colab / GPU Training Dependencies (Executed inside the Colab notebook)
+# unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git
+# trl>=0.9.0
+# peft>=0.12.0
+# accelerate>=0.33.0
+# bitsandbytes>=0.43.0
+# xformers<0.0.29
+# torch>=2.2.0

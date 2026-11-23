@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "query": "I noticed two charges for the same grocery order on my card.",
+    "ground_truth": "transaction_charged_twice",
+    "base_model": {
+      "raw_output": "The user is asking about multiple charges on their card for a grocery order. This indicates an unauthorized or duplicate transaction that needs review.",
+      "extracted_intent": "duplicate_charge_issue",
+      "format_valid_json": false,
+      "confidence": "moderate",
+      "latency_ms": 145
+    },
+    "finetuned_model": {
+      "raw_output": "{\"intent\": \"transaction_charged_twice\", \"confidence\": \"high\"}",
+      "extracted_intent": "transaction_charged_twice",
+      "format_valid_json": true,
+      "confidence": "high",
+      "latency_ms": 62
+    },
+    "status": "correct"
+  },
+  {
+    "id": 2,
+    "query": "I cannot remember my passcode and cannot log into the mobile app.",
+    "ground_truth": "passcode_forgotten",
+    "base_model": {
+      "raw_output": "{\"category\": \"password_reset_request\", \"message\": \"User forgot password\"}",
+      "extracted_intent": "password_reset_request",
+      "format_valid_json": true,
+      "confidence": "low",
+      "latency_ms": 138
+    },
+    "finetuned_model": {
+      "raw_output": "{\"intent\": \"passcode_forgotten\", \"confidence\": \"high\"}",
+      "extracted_intent": "passcode_forgotten",
+      "format_valid_json": true,
+      "confidence": "high",
+      "latency_ms": 58
+    },
+    "status": "correct"
+  },
+  {
+    "id": 3,
+    "query": "My contactless payments are being declined at every terminal.",
+    "ground_truth": "contactless_not_working",
+    "base_model": {
+      "raw_output": "Contactless card payment failure. Reason could be pin reset needed.",
+      "extracted_intent": "card_decline",
+      "format_valid_json": false,
+      "confidence": "moderate",
+      "latency_ms": 152
+    },
+    "finetuned_model": {
+      "raw_output": "{\"intent\": \"contactless_not_working\", \"confidence\": \"high\"}",
+      "extracted_intent": "contactless_not_working",
+      "format_valid_json": true,
+      "confidence": "high",
+      "latency_ms": 64
+    },
+    "status": "correct"
+  },
+  {
+    "id": 4,
+    "query": "How long will it take for my new debit card to be delivered to my address?",
+    "ground_truth": "card_delivery_estimate",
+    "base_model": {
+      "raw_output": "Delivery question about bank card shipment.",
+      "extracted_intent": "delivery_time",
+      "format_valid_json": false,
+      "confidence": "moderate",
+      "latency_ms": 139
+    },
+    "finetuned_model": {
+      "raw_output": "{\"intent\": \"card_delivery_estimate\", \"confidence\": \"high\"}",
+      "extracted_intent": "card_delivery_estimate",
+      "format_valid_json": true,
+      "confidence": "high",
+      "latency_ms": 61
+    },
+    "status": "correct"
+  },
+  {
+    "id": 5,
+    "query": "I sent money to a wrong account by mistake, please cancel the transfer immediately.",
+    "ground_truth": "cancel_transfer",
+    "base_model": {
+      "raw_output": "{\"intent\": \"transfer_cancellation\", \"urgency\": \"high\"}",
+      "extracted_intent": "transfer_cancellation",
+      "format_valid_json": true,
+      "confidence": "moderate",
+      "latency_ms": 141
+    },
+    "finetuned_model": {
+      "raw_output": "{\"intent\": \"cancel_transfer\", \"confidence\": \"high\"}",
+      "extracted_intent": "cancel_transfer",
+      "format_valid_json": true,
+      "confidence": "high",
+      "latency_ms": 59
+    },
+    "status": "correct"
+  },
+  {
+    "id": 6,
+    "query": "I am traveling to France next week, can I exchange GBP to Euros inside the app?",
+    "ground_truth": "exchange_via_app",
+    "base_model": {
+      "raw_output": "User wants currency exchange services inside mobile application.",
+      "extracted_intent": "currency_exchange",
+      "format_valid_json": false,
+      "confidence": "low",
+      "latency_ms": 149
+    },
+    "finetuned_model": {
+      "raw_output": "{\"intent\": \"exchange_via_app\", \"confidence\": \"high\"}",
+      "extracted_intent": "exchange_via_app",
+      "format_valid_json": true,
+      "confidence": "high",
+      "latency_ms": 65
+    },
+    "status": "correct"
+  }
+]

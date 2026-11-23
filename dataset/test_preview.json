@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "test_0",
+    "text": "How do I locate my card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_1",
+    "text": "I still have not received my new card, I ordered over a week ago.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_2",
+    "text": "I ordered a card but it has not arrived. Help please!",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_3",
+    "text": "Is there a way to know when my card will arrive?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_4",
+    "text": "My card has not arrived yet.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_5",
+    "text": "When will I get my card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_6",
+    "text": "Do you know if there is a tracking number for the new card you sent me?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_7",
+    "text": "i have not received my card",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_8",
+    "text": "still waiting on that card",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_9",
+    "text": "Is it normal to have to wait over a week for my new card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_10",
+    "text": "How do I track my card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_11",
+    "text": "How long does a card delivery take?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_12",
+    "text": "I still don't have my card after 2 weeks.  What should I do?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_13",
+    "text": "still waiting on my new card",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_14",
+    "text": "I am still waiting for my card after 1 week.  Is this ok?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_15",
+    "text": "I have been waiting longer than expected for my bank card, could you provide information on when it will arrive?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_16",
+    "text": "I've been waiting longer than expected for my card.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_17",
+    "text": "Why hasn't my card been delivered?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_18",
+    "text": "Where is my new card? I have been waiting a week!",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_19",
+    "text": "My card still hasn't arrived after 2 weeks. Is it lost?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_20",
+    "text": "I did not get my card yet, is it lost?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_21",
+    "text": "Status of the card I ordered.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_22",
+    "text": "How long should my new card take to arrive?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_23",
+    "text": "I ordered my card 2 weeks ago and it still isn't here? What do I do?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_24",
+    "text": "My card has not arrived yet, where is it?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_25",
+    "text": "What is the tracking number for my card that was mailed?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_26",
+    "text": "I think something went wrong with my card delivery as I haven't received it yet.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_27",
+    "text": "I'm still waiting for delivery of my new card, why is it taking so long?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_28",
+    "text": "I ordered a card a week ago, and it's still not here. What do I do?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_29",
+    "text": "i want to track the card you sent",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_30",
+    "text": "My card hasn't arrived yet.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_31",
+    "text": "I was expecting my new card and am wondering why I haven't received it yet?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_32",
+    "text": "How do I know when my card will arrive?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_33",
+    "text": "I'm still waiting on my card to be delivered.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_34",
+    "text": "Does the card you sent have a way to track to it?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_35",
+    "text": "I ordered a card and I still haven't received it. It's been two weeks. What can I do?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_36",
+    "text": "I'm starting to think my card is lost because it still hasn't arrived, can you help?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_37",
+    "text": "Is there tracking info available?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_38",
+    "text": "What is the tracking number for the card you sent?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_39",
+    "text": "Where is the tracking number for the card you sent me?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "test"
+  },
+  {
+    "id": "test_40",
+    "text": "Why won't my card show up on the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_41",
+    "text": "I would like to reactivate my card.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_42",
+    "text": "Where do I link the new card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_43",
+    "text": "I have received my card, can you help me put it in the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_44",
+    "text": "How do I link a card that I already have?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_45",
+    "text": "I received my new card, but I don't see it in the app anywhere.  What do I do?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_46",
+    "text": "How do I re-add a card to the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_47",
+    "text": "How do I add the card to my account?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_48",
+    "text": "Can I put my old card back into the system? I just found it/",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_49",
+    "text": "I have one of your cards already, how do I link it?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_50",
+    "text": "How do I link a new card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_51",
+    "text": "Can I link an existing card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_52",
+    "text": "How do I link one your card if I have one already?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_53",
+    "text": "How do I add a card to the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_54",
+    "text": "Can I link my new card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_55",
+    "text": "Hello, I found the card I misplaced and I need to reactive it, how do I do that?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_56",
+    "text": "Can you tell me how to link one of your cards that I already have?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_57",
+    "text": "How do I view the card I received in the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_58",
+    "text": "Where on the website do I go to link my card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_59",
+    "text": "I found my card, can I add it to the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_60",
+    "text": "How do I link to my credit card with you?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_61",
+    "text": "I've received my card so now I need to know how to sync it to the app.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_62",
+    "text": "I found my card, I would like to reactivate it.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_63",
+    "text": "How do I link this new card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_64",
+    "text": "Can I reactivate my lost card that I found this morning in my jacket pocket?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_65",
+    "text": "how do I link an already existing card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_66",
+    "text": "The app doesn't show the card I received.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_67",
+    "text": "how do I link a card I already have?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_68",
+    "text": "I would like to link my card. How do I do it?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_69",
+    "text": "Can you please show me where I can find the location to link my card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_70",
+    "text": "Where do I go if I want to link my new card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_71",
+    "text": "Is there a way to make my old card usable with the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_72",
+    "text": "Can I reactivate a card I thought I lost?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_73",
+    "text": "How do I link my card",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_74",
+    "text": "Where do I need to go in the app to enter my card info?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_75",
+    "text": "I have found my lost or stolen card. Is there a way I can link the card with my account through my app again?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_76",
+    "text": "Could you help me reactivate my card? It was previously lost, but I found it this morning in my jacket.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_77",
+    "text": "I already have one of your cards, how do I link them?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_78",
+    "text": "How do I link my replacement card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_79",
+    "text": "Can I link another card to my account?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "test"
+  },
+  {
+    "id": "test_80",
+    "text": "I need to know your exchange rates.",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_81",
+    "text": "What exchange rates do you offer?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_82",
+    "text": "How did you come up with your exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_83",
+    "text": "Where do you guys acquire your exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_84",
+    "text": "How do I find the exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_85",
+    "text": "What are your international exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_86",
+    "text": "How often do your exchange rates change",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_87",
+    "text": "Please advise what is the exchange rate",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_88",
+    "text": "How are exchange rates calculated?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_89",
+    "text": "what are exchange rates based on",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_90",
+    "text": "what are exchange rates",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_91",
+    "text": "What are the most current exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_92",
+    "text": "Can you explain your exchange rate policy to me?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_93",
+    "text": "Is it a good time to exchange?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_94",
+    "text": "What is the exchange rate like on this app?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_95",
+    "text": "Do you have a list of exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_96",
+    "text": "Can you tell me where you get your exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_97",
+    "text": "Will I get a curreng foreign exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_98",
+    "text": "What currencies is an exchange rate calculated in?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_99",
+    "text": "Where do you get your exchange rates from?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_100",
+    "text": "What is the base of the exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_101",
+    "text": "What exchange rate do you use?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_102",
+    "text": "The exchange rates are?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_103",
+    "text": "What do you base your exchange rates on?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_104",
+    "text": "What foreign exchange rate will you use?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_105",
+    "text": "How much will I get with the exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_106",
+    "text": "The exchange rate would be?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_107",
+    "text": "What is the exchange rate like?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_108",
+    "text": "How do your exchange rates work?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_109",
+    "text": "what is the exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_110",
+    "text": "Where did your guys exchange rates come from?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_111",
+    "text": "How are you determining your exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_112",
+    "text": "I'm trying to figure out the current exchange rate.",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_113",
+    "text": "From where are you getting your exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_114",
+    "text": "Can you tell me the foreign exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_115",
+    "text": "why do your exchange rates change",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_116",
+    "text": "What kind of foreign exchange rate will I get when I exchange my money?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_117",
+    "text": "What is my foreign exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_118",
+    "text": "when does the rate get determined",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_119",
+    "text": "What is the current exchange rate for me?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_120",
+    "text": "I purchased something in a foreign currency but the rate applied is wrong",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_121",
+    "text": "I made a currency exchange and think I was charged more than I should of been.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_122",
+    "text": "the card payment exchange rate is wrong",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_123",
+    "text": "The exchange rate was wrong when I bought something outside the country.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_124",
+    "text": "The exchange rate on my purchase is wrong.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_125",
+    "text": "This rate is too low. Are you sure your using the right exchange rate.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_126",
+    "text": "I bought something, but the exchange rate looks wrong.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_127",
+    "text": "The rate applied to my foreign purchase was incorrect",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_128",
+    "text": "I bought something in a foreign currency but the rate applied is wrong!",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_129",
+    "text": "My exchange went wrong. I swapped Russian Ruble for UK pounds and was charged too much.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_130",
+    "text": "You did not apply the correct exchange rate for an item that I bought.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_131",
+    "text": "The rate of exchange for my card payment is incorrect",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_132",
+    "text": "The rate for a currency exchange was wrong when I bought something.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_133",
+    "text": "Why is the exchange rate wrong when I purchase something abroad?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_134",
+    "text": "I bought an item and noticed the exchange rate was not correct.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_135",
+    "text": "I bought something overseas and the wrong exchange rate is on my statement.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_136",
+    "text": "The exchange rate for my transaction last Saturday seems to have been wrong I got charged extra.  Please fix.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_137",
+    "text": "Why is your exchange rate for my card payment wrong",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_138",
+    "text": "Why am I being charged more ?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_139",
+    "text": "I purchased an item and the exchange rate I was given was incorrect.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_140",
+    "text": "I don't think my card payment exchange rate is correct.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_141",
+    "text": "When I made a purchase last Saturday, I was charged extra. Did I receive the right exchange rate?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_142",
+    "text": "They charged me wrong for a currency exchange on a purchase.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_143",
+    "text": "I believe my card payment exchange rate is incorrect.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_144",
+    "text": "Hi, I have been overcharged for my payment last Saturday. I guess exchange rate was wrong.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_145",
+    "text": "The exchange rate seems off on this transaction",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_146",
+    "text": "The exchange rate given to me wasn't correct, after i purchased an item",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_147",
+    "text": "Hi, I don't think your exchange rate is right. I need you to check the official interbank exchange please.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_148",
+    "text": "I'm pretty sure something went wrong with my exchange. I changed Russian Ruble to UK pounds and was charged way too much!",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_149",
+    "text": "I wasn't applied the correct exchange rate for an item I bought",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_150",
+    "text": "the conversion value for my card payments is incorrect.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_151",
+    "text": "The wrong exchange rate was used when I bought something with a foriegn currency.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_152",
+    "text": "I paid for something in foreign currency but noticed the exchange rate is incorrect.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_153",
+    "text": "The incorrect rate was used in my foreign purchase",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_154",
+    "text": "Why was the exchange rate incorrect for an item I recently bought?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_155",
+    "text": "Why is my exchange rate wrong for an item I bought?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_156",
+    "text": "How can I check the exchange rate applied to my transaction?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_157",
+    "text": "Your exchange rate is totally wrong for my card payment",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_158",
+    "text": "The wrong rate was applied to an item I bought in a currency different from mine. Can this be changed?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_159",
+    "text": "I go the wrong exchange rate applied to my purchase in a foreign country.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "test"
+  },
+  {
+    "id": "test_160",
+    "text": "My statement has a dollar I have been charged showing up on it.",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_161",
+    "text": "Why is there a fee for an extra pound in my statement?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_162",
+    "text": "I'm not okay with this fee on my statement.",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_163",
+    "text": "Why is there an extra dollar charged to my account?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_164",
+    "text": "There is a fee I don't recognize on my statement.",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_165",
+    "text": "I would like a refund on the extra pound I was charged.",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_166",
+    "text": "Can you explain what this random $1 charge is?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_167",
+    "text": "What is this $1 charge on my statement?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_168",
+    "text": "Why does my statement have these extra charges?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_169",
+    "text": "I do not remember purchasing anything for 1\u00a3, and it is on my statement. Can you please tell me what that is about?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_170",
+    "text": "I can see an extra 1\u00a3 charge on my app. Why did you charge me extra?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_171",
+    "text": "Can you tell me why I noticed a $1 charge on my statement?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_172",
+    "text": "When will the $1 transaction be credited to me?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_173",
+    "text": "Where did this fee come from?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_174",
+    "text": "I noticed an extra $1 charge on my statement, can you tell me why that is?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_175",
+    "text": "There is an extra $1 charge",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_176",
+    "text": "I need information about an extra \u20ac1 fee in my statement.",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_177",
+    "text": "Why is there an extra 1 pound charge on my card?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_178",
+    "text": "Why are there so many fees on my statement?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_179",
+    "text": "What would be the reason there's an extra fee on my statement?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_180",
+    "text": "Where did this 1 euro fee come from?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_181",
+    "text": "I got a extra \u20ac1 fee in my statement",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_182",
+    "text": "I have a 1 euro fee on my statement.",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_183",
+    "text": "Why was I overcharged a pound!?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_184",
+    "text": "Something went wrong, I was charged an extra pound?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_185",
+    "text": "Where did the extra fee on my statement come from?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_186",
+    "text": "There is an extra charge on my app that I was not told about or I was aware of!",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_187",
+    "text": "I am seeing an extra fee on my statement what is that for?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_188",
+    "text": "What is this \u20ac1 fee in my statement?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_189",
+    "text": "I am a new customer, and I happened to look at my app and there is a charge I am not familiar with.  Could you tell me why the extra charge is there?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_190",
+    "text": "For some reason my account's been charged an extra dollar.",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_191",
+    "text": "There is a transaction for $1 and I don't know why it was charged.",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_192",
+    "text": "Can you help me with a weird charge?  It's a pound charge that never goes away from the statement view on the app I'm using.  It's not described as anything but \"Pending\", and that status has never changed during the last two days.",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_193",
+    "text": "What is the purpose of the extra fee that is showing up on my statement?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_194",
+    "text": "$1 extra has been charged on my statement, why is that?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_195",
+    "text": "What is the extra  \u20ac1 fee in my statement",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_196",
+    "text": "It's been two weeks, why has the transaction for $1.00 not been reversed?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_197",
+    "text": "What is the \u20ac1 fee for?",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_198",
+    "text": "I'm quite confused as to what is going on. There is some odd extra pound charge on my statement in the app that's just listed as pending and doesn't go away since a couple days.",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_199",
+    "text": "Can you please check why I am having this extra fee on my statement.",
+    "label_id": 34,
+    "intent": "extra_charge_on_statement",
+    "split": "test"
+  },
+  {
+    "id": "test_200",
+    "text": "My withdrawl is still pending.  Why?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_201",
+    "text": "My card was denied at an ATM earlier today but the transaction is pending. Please cancel it as I did not receive my money.",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_202",
+    "text": "My transaction is still showing that is pending from my cash withdrawal.",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_203",
+    "text": "Hey I tried to get some money out earlier but the machine didn't work. Now just saw the transaction still seems in progress! Can you please check what's going there, seems something is broken, I don't want to be charged for money that I haven't actually received!",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_204",
+    "text": "How long does the cash withdrawal take to pend?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_205",
+    "text": "Why is it taking so long for my cash withdrawal to no longer show as pending?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_206",
+    "text": "I tried taking money from the ATM but no money came out, but the transaction is still pending? How is this possible?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_207",
+    "text": "I got some cash of an ATM earlier but this shows up as pending in the app. How can this be still pending, I've got the cash already?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_208",
+    "text": "Why is my withdrawal still pending?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_209",
+    "text": "Are you sure when the withdrawal will show?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_210",
+    "text": "Hi! I was wondering if you can help me. I used the city centre ATM to get some cash, but the machine declined my card. My account shows that transaction is still pending. I didn't receive the money, so please cancel that transaction.",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_211",
+    "text": "Why is a transaction showing as pending when I recieved cash from an ATM?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_212",
+    "text": "My cash in the ATM is still pending",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_213",
+    "text": "my atm cash out is still pending",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_214",
+    "text": "I am still waiting for a cash withdrawal to show",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_215",
+    "text": "Is my pending cash withdrawal processed?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_216",
+    "text": "how long til my cash out goes through?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_217",
+    "text": "Why is my ATM cash withdrawal showing up as a pending transaction?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_218",
+    "text": "Hi,I tried to get some money out but the machine was not working .The transaction still seems in progress! Can you please check what's going on.I don't want to be charged for money that I did not received.",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_219",
+    "text": "Hey, my card was declined at an ATM in the city centre theatre. My account says the transaction is pending, though. I didn't get the money, though, so what does that mean?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_220",
+    "text": "Why do I have a pending cash withdrawal?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_221",
+    "text": "I have a pending cash withdrawal",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_222",
+    "text": "I made a withdrawal from my account but it has not posted?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_223",
+    "text": "Is my cash withdrawal pending?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_224",
+    "text": "I'm not quite understanding why my cash withdrawal is showing as pending.",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_225",
+    "text": "I made a cash withdrawal but the pending status is taking forever.",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_226",
+    "text": "My cash withdrawal is still showing as pending.",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_227",
+    "text": "Why am I unable to take money from my card but the statement says the transaction is still pending?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_228",
+    "text": "Why does my account have a pending cash withdrawal?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_229",
+    "text": "I have a pending transaction in my app. How is it still pending if I pulled the cash out from the ATM earlier?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_230",
+    "text": "Cash withdrawal still pending?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_231",
+    "text": "I received cash from the ATM earlier, but this shows up as pending in the app.  I've got the cash already.  How can this be still pending?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_232",
+    "text": "I tried to take money from my card, but it didn't work. Later I saw that the transaction is still in progress. What's goign on?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_233",
+    "text": "Why does it say pending cash withdrawal on my statement?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_234",
+    "text": "How long with my cash withdrawal stay pending for?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_235",
+    "text": "Where's accounting for my cash withdrawal?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_236",
+    "text": "My account was charged for a withdraw I tried to make that was decline.",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_237",
+    "text": "how long does it take to post atm with drawl",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_238",
+    "text": "Why is my cash withdrawal from the ATM still not yet showing as confirmed in my account?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_239",
+    "text": "What's a pending transaction? My card was declined at an ATM, but my account says it's still pending. Can I cancel the payment?",
+    "label_id": 46,
+    "intent": "pending_cash_withdrawal",
+    "split": "test"
+  },
+  {
+    "id": "test_240",
+    "text": "If I request that my funds be held, what currencies do you use?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_241",
+    "text": "I want to know how many different currencies my money can be in",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_242",
+    "text": "Do you support all fiat currencies?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_243",
+    "text": "Does your system support multiple currency.",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_244",
+    "text": "What currencies can I hold money in?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_245",
+    "text": "Do you support any currency?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_246",
+    "text": "There is an incoming payment into my account, but it is deactivated. Will they still be processed?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_247",
+    "text": "What currencies do you do exchanges for?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_248",
+    "text": "In terms of holding and exchange, what fiat currencies do you use.",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_249",
+    "text": "What fiat currencies are used for holding transactions?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_250",
+    "text": "Where can I exchange my money for EUR?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_251",
+    "text": "Is it permissible to hold money in multiple currencies?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_252",
+    "text": "Can I exchange to EUR?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_253",
+    "text": "Can someone assist me with the details explaining which fiat currencies that you support?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_254",
+    "text": "Do you offer additional currency options?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_255",
+    "text": "How do I change currencies to euros?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_256",
+    "text": "What fiat currencies are supported for holding and exchange?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_257",
+    "text": "When considering currency holdings and exchanges, what fiat currencies are supported?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_258",
+    "text": "Will you handle EUR?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_259",
+    "text": "Can I hold money in other currencies?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_260",
+    "text": "What options do I have for holding currencies?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_261",
+    "text": "Do you happen to do exchanges of EUR?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_262",
+    "text": "Do you accept exchanges to EUR?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_263",
+    "text": "Can you tell me what currency I can have?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_264",
+    "text": "Am I able to exchange currencies?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_265",
+    "text": "What currencies are used in your exchange?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_266",
+    "text": "Which fiat currencies do you support?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_267",
+    "text": "Which country's currency do you support?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_268",
+    "text": "I want to make a currency exchange to EU.",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_269",
+    "text": "Can I exchange and hold all fiat currencies?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_270",
+    "text": "What kind of currency can I hold money in?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_271",
+    "text": "Can I exchange currencies?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_272",
+    "text": "Do you work with all fiat currencies?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_273",
+    "text": "Can I hold money in multiple currencies?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_274",
+    "text": "How man currencies can I hold?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_275",
+    "text": "Besides USD what other currencies can I have?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_276",
+    "text": "How do I accept exchanges to EU?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_277",
+    "text": "What kind of fiat currency can I used for holding and exchange?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_278",
+    "text": "Do you support the exchange of EUR from my currency.",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_279",
+    "text": "What countries can I travel to and have access to their currencies?",
+    "label_id": 36,
+    "intent": "fiat_currency_support",
+    "split": "test"
+  },
+  {
+    "id": "test_280",
+    "text": "I need my card now!",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_281",
+    "text": "my card was not in the mail again can you advise?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_282",
+    "text": "i need my card quick",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_283",
+    "text": "How long will it take to get to me?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_284",
+    "text": "I'm just wondering when my card will get here.",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_285",
+    "text": "Can you get me my card fast?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_286",
+    "text": "How long will it take to deliver something to US?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_287",
+    "text": "I live in the US, how long will it take for delivery?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_288",
+    "text": "When can I expect my card to be delivered to the US?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_289",
+    "text": "I need my card quickly",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_290",
+    "text": "Does delivery to the US take long?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_291",
+    "text": "How long will it take to arrive?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_292",
+    "text": "Can I have my card delivered on a specific day?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_293",
+    "text": "What is the difference between standard and express delivery?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_294",
+    "text": "Can it be delivered by a specific date?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_295",
+    "text": "May I choose when it's delivered?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_296",
+    "text": "I need it delivered on a certain date.",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_297",
+    "text": "When should I expect my card?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_298",
+    "text": "How long does it take to get my card? Can I choose when to receive it?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_299",
+    "text": "How long will it take for the card to arrive?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_300",
+    "text": "How fast can you deliver?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_301",
+    "text": "Ordered awhile back, what is the ETA in the US?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_302",
+    "text": "How long should I expect for the card to arrive?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_303",
+    "text": "Whats the delivery time to the United States?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_304",
+    "text": "When will the card arrive?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_305",
+    "text": "Send my card as soon as you are able to.",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_306",
+    "text": "When are cards delivered?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_307",
+    "text": "How long does shipping take to get to a US destination?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_308",
+    "text": "Can I get my card expedited?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_309",
+    "text": "How long until my card is delivered?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_310",
+    "text": "I need my card to come as soon as possible.",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_311",
+    "text": "When can I expect to receive my new card?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_312",
+    "text": "I am waiting for my card to arrive.",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_313",
+    "text": "I need my card as soon as possible.",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_314",
+    "text": "I need it delivered by Saturday.",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_315",
+    "text": "What's the U.S. Delivery time?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_316",
+    "text": "When will my card arrive?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_317",
+    "text": "can I choose a date for delivery?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_318",
+    "text": "Can I make sure my card is delivered on a specific day?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_319",
+    "text": "Can I have it be delivered at a certain time?",
+    "label_id": 12,
+    "intent": "card_delivery_estimate",
+    "split": "test"
+  },
+  {
+    "id": "test_320",
+    "text": "When traveling, can I auto top-up my card at certain times?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_321",
+    "text": "Is there a limit when using auto top-up?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_322",
+    "text": "Will it automatically top-up or do I need to do that manually if there isn't much cash left?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_323",
+    "text": "I'm running out of money, can I  auto top up?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_324",
+    "text": "How do I use auto top up?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_325",
+    "text": "Can it automatically top-up money if there isn't much left?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_326",
+    "text": "If there isn't much money left can it automatically top-up?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_327",
+    "text": "I read about the auto-top up function, but can't find it in the app.",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_328",
+    "text": "Can I have it add money at certain time intervals when I travel?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_329",
+    "text": "I'm going to be away for awhile, can I have it add money automatically in certain intervals?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_330",
+    "text": "Where can I find the \"auto-top\" feature?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_331",
+    "text": "I just activated auto top-up, but it is not letting me enable it. Why not?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_332",
+    "text": "Is there an auto top-up option?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_333",
+    "text": "where is theft-top option?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_334",
+    "text": "Are there limits on auto top-up?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_335",
+    "text": "can you assist me with the auto top up ?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_336",
+    "text": "Do you have any limit on the auto top-up?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_337",
+    "text": "Why are there limits on auto top-up?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_338",
+    "text": "How can I top up automatically?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_339",
+    "text": "How do I make sure I don't run out of money on my card while traveling?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_340",
+    "text": "What's the limit on automatic top-up?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_341",
+    "text": "If I will be traveling, is there a way to auto top-up my card on certain days?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_342",
+    "text": "Where is the auto top-up option?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_343",
+    "text": "Can I have a auto top-up when my account is short?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_344",
+    "text": "Do you have an auto top-up option?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_345",
+    "text": "Can I space out how often money is transferred along my travels?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_346",
+    "text": "Will it automatically top-up money if there isn't a lot left?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_347",
+    "text": "Can I have it add money automatically in certain intervals?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_348",
+    "text": "Can I set up an automatic top-up for travel.",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_349",
+    "text": "I've tried looking for the auto-top up option on your website and I can't seem to find it. Can you help me?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_350",
+    "text": "how do I top up my money automatically",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_351",
+    "text": "Can I be topped up once I hit a certain balance?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_352",
+    "text": "Will it automatically top-up if there isn't much money left?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_353",
+    "text": "Is there any way to Auto top-up?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_354",
+    "text": "Can you explain where I can find the auto-top option?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_355",
+    "text": "What is the auto top up function and where can I find that at?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_356",
+    "text": "Is there a way to top-up automatically?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_357",
+    "text": "Is there a top-up feature, if there isn't a lot of money left?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_358",
+    "text": "What is the highest limit for Auto Top?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_359",
+    "text": "How do I enable auto-top up?",
+    "label_id": 4,
+    "intent": "automatic_top_up",
+    "split": "test"
+  },
+  {
+    "id": "test_360",
+    "text": "I've tried my card a bunch of times and it never worked.",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_361",
+    "text": "I can't get my card to work.",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_362",
+    "text": "My card appears to be broken how can I fix it?",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_363",
+    "text": "How do I know why my card isn't working?",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_364",
+    "text": "My card broke.",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_365",
+    "text": "My card won't work.",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_366",
+    "text": "Why is my card not working?",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_367",
+    "text": "Can you please identify the problem with my bank card?",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_368",
+    "text": "How do I unblock my card using the app?",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_369",
+    "text": "My card does not work",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_370",
+    "text": "How can I get my physical card to work?",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_371",
+    "text": "Can someone assist me by explaining why my card is not working?",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_372",
+    "text": "Help me.  My card doesn't work.",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_373",
+    "text": "Can a card stop working?",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_374",
+    "text": "I think my card is broken",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_375",
+    "text": "Why isn't my card working?",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_376",
+    "text": "My card isn't working anymore.",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_377",
+    "text": "My card was declined today when eating and I need to know what's wrong.",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_378",
+    "text": "My card doesn't work.",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_379",
+    "text": "How can I resolve a problem where my card won't go through at all?",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_380",
+    "text": "My actual card isn't working.",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_381",
+    "text": "Is my card broken?",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_382",
+    "text": "I broke my card",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_383",
+    "text": "My card stopped working",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_384",
+    "text": "My card is broke, what do I do?",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_385",
+    "text": "I tried using my card today and it's not working, can you help me?",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_386",
+    "text": "My card stopped working when I use it",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_387",
+    "text": "I can't use my card.",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_388",
+    "text": "Need help with my card. It's not working.",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_389",
+    "text": "I cannot use my card.",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_390",
+    "text": "The card I've got seems to be broken.",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_391",
+    "text": "My card isn't working",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_392",
+    "text": "My card suddenly quit working.",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_393",
+    "text": "I have tried to use my card several times and it does not work.",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_394",
+    "text": "The card I have doesn't work.",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_395",
+    "text": "My card doesn't accept any transaction at all. What's wrong??",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_396",
+    "text": "How can i check if my card is working?",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_397",
+    "text": "Nothing goes through on my card.",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_398",
+    "text": "How do I find out why my card won't work?",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_399",
+    "text": "Could it be that I deactivated my card, its not working?",
+    "label_id": 14,
+    "intent": "card_not_working",
+    "split": "test"
+  },
+  {
+    "id": "test_400",
+    "text": "May I exchange currencies with this?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_401",
+    "text": "Tell me how I can exchange between different currency.",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_402",
+    "text": "Can I change from one currency to another?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_403",
+    "text": "How do I change GBP to AUD?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_404",
+    "text": "Will this app exchange currencies?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_405",
+    "text": "How do I convert currencies with the app?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_406",
+    "text": "How are currencies exchanged?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_407",
+    "text": "Can I exchange currencies with this app?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_408",
+    "text": "How do I make an exchange from one currency to another?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_409",
+    "text": "How do I interconvert between AUD and GBP?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_410",
+    "text": "What all currencies can be exchanged?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_411",
+    "text": "What is the best way to exchange currency between USD and GBP using your app?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_412",
+    "text": "If I wanted to make a change from GBP to AUD what is the process?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_413",
+    "text": "Can I get some money exchanged?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_414",
+    "text": "Is it possible to change to another currency?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_415",
+    "text": "How do I exchange my GBP to AUD?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_416",
+    "text": "How would I use my money in a different country?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_417",
+    "text": "If I receive foreign currencies, am I able to exchange them on the app?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_418",
+    "text": "Can I change to another currency?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_419",
+    "text": "I need AUD not GBP, how do I change it?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_420",
+    "text": "What is the best way to exchange currency?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_421",
+    "text": "If I need GBP instead of AUD what do I do?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_422",
+    "text": "I was wondering whether exchanging currencies can be done on this app.",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_423",
+    "text": "I might need AUD instead of GBP, how to change?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_424",
+    "text": "How do I go through the process of currency exchange?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_425",
+    "text": "Change currency",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_426",
+    "text": "Can am I able to exchange currencies?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_427",
+    "text": "Where do I go to change GBP?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_428",
+    "text": "What currency's can i exchange for?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_429",
+    "text": "What currencies will this app exchange?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_430",
+    "text": "Can this app help me exchange currencies?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_431",
+    "text": "I would like to exchange some currency.",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_432",
+    "text": "Can I exchange between GBP and USD on the app?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_433",
+    "text": "Is there currency exchange on this app?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_434",
+    "text": "Can I change my currency from USD to EUR?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_435",
+    "text": "I think I want AUD and not GBP, can you help?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_436",
+    "text": "How do I exchange currency?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_437",
+    "text": "Can I use this app to change dollars into euros?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_438",
+    "text": "Can I exchange currencies with my account?",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_439",
+    "text": "I would like to exchange currencies",
+    "label_id": 33,
+    "intent": "exchange_via_app",
+    "split": "test"
+  },
+  {
+    "id": "test_440",
+    "text": "My entire gym bag, including my wallet, was stolen out of my locker today. Everything in my wallet is gone - how do I block the card to make it can't be used?",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_441",
+    "text": "I can't find my card and think it may have been stolen.",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_442",
+    "text": "Someone stole my card. I need to report it stolen. I made a police report already, but how do I report it with you?",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_443",
+    "text": "I cant find my card, it's gone.",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_444",
+    "text": "My card is lost! What can I do?",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_445",
+    "text": "I lost my card",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_446",
+    "text": "Oh no!  I lost my card!  Help!",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_447",
+    "text": "I believe my card has been stolen, what can I do about this situation? It's urgent.",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_448",
+    "text": "Help! Someone stole my card!",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_449",
+    "text": "Help.  I have a stolen card!",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_450",
+    "text": "card is lost, please help",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_451",
+    "text": "How do I report my card stolen?",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_452",
+    "text": "My card is gone I think it was stolen",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_453",
+    "text": "Is a copy of the police report necessary for completing the report process?",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_454",
+    "text": "I lost my wallet today with all my credit cards. Will you please block the card and send a replacement?",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_455",
+    "text": "How do I deal with a stolen card?",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_456",
+    "text": "Can you freeze my card it was stolen",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_457",
+    "text": "Help!  I can't find my card.",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_458",
+    "text": "What should I do if I lost my card?",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_459",
+    "text": "I need help with a lost card",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_460",
+    "text": "I think my card was stolen.",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_461",
+    "text": "Someone stole my wallet earlier today, not sure exactly when, probably on Piccadilly circus. Can you check if there were any attempts to use the card and obviously block it?",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_462",
+    "text": "I think I lost my card . I dont know how long it has been missing. Can you see if maybe someone else has been using it?",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_463",
+    "text": "How can I freeze a stolen card?",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_464",
+    "text": "What should I do if my card is missing?",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_465",
+    "text": "My bags were stolen. I need a new card but need to cancel the stolen one.",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_466",
+    "text": "Somehow I am missing my card.  What should I do?",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_467",
+    "text": "My card was taken from me",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_468",
+    "text": "My card got lost.",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_469",
+    "text": "Some idiot stole my card.",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_470",
+    "text": "How do I report my card lost or stolen?",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_471",
+    "text": "My card is lost! What do I do now?",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_472",
+    "text": "I'm in Spain and my stuff has been stolen. My card was with it and I need a new one shipped and the old one frozen.",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_473",
+    "text": "I believe my credit card was stolen.",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_474",
+    "text": "How do I report a stolen card?",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_475",
+    "text": "Somebody has stolen my card, I need help please.",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_476",
+    "text": "I cannot find my credit card.",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_477",
+    "text": "Are you able to locate my card?",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_478",
+    "text": "My card got stolen!",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_479",
+    "text": "Help me please!  My card was stolen!",
+    "label_id": 41,
+    "intent": "lost_or_stolen_card",
+    "split": "test"
+  },
+  {
+    "id": "test_480",
+    "text": "how old do i need to be to get an account for myself",
+    "label_id": 1,
+    "intent": "age_limit",
+    "split": "test"
+  },
+  {
+    "id": "test_481",
+    "text": "How young can I be to open my own account?",
+    "label_id": 1,
+    "intent": "age_limit",
+    "split": "test"
+  },
+  {
+    "id": "test_482",
+    "text": "How old do I have to be?",
+    "label_id": 1,
+    "intent": "age_limit",
+    "split": "test"
+  },
+  {
+    "id": "test_483",
+    "text": "Can I open an account for a child?",
+    "label_id": 1,
+    "intent": "age_limit",
+    "split": "test"
+  },
+  {
+    "id": "test_484",
+    "text": "How old do we have to be?",
+    "label_id": 1,
+    "intent": "age_limit",
+    "split": "test"
+  },
+  {
+    "id": "test_485",
+    "text": "How do I go about setting up an account for my daughter?",
+    "label_id": 1,
+    "intent": "age_limit",
+    "split": "test"
+  },
+  {
+    "id": "test_486",
+    "text": "Is there an age minimum?",
+    "label_id": 1,
+    "intent": "age_limit",
+    "split": "test"
+  },
+  {
+    "id": "test_487",
+    "text": "What is the youngest age in order to have an account?",
+    "label_id": 1,
+    "intent": "age_limit",
+    "split": "test"
+  },
+  {
+    "id": "test_488",
+    "text": "What age do I have to be?",
+    "label_id": 1,
+    "intent": "age_limit",
+    "split": "test"
+  },
+  {
+    "id": "test_489",
+    "text": "Can my daughter open an account?",
+    "label_id": 1,
+    "intent": "age_limit",
+    "split": "test"
+  },
+  {
+    "id": "test_490",
+    "text": "What is the minimum age to open an account?",
+    "label_id": 1,
+    "intent": "age_limit",
+    "split": "test"
+  },
+  {
+    "id": "test_491",
+    "text": "What is the minimum age?",
+    "label_id": 1,
+    "intent": "age_limit",
+    "split": "test"
+  },
+  {
+    "id": "test_492",
+    "text": "I am only 17. Can I make an account?",
+    "label_id": 1,
+    "intent": "age_limit",
+    "split": "test"
+  },
+  {
+    "id": "test_493",
+    "text": "Could I open an account for my children?",
+    "label_id": 1,
+    "intent": "age_limit",
+    "split": "test"
+  },
+  {
+    "id": "test_494",
+    "text": "What is the age to open an account?",
+    "label_id": 1,
+    "intent": "age_limit",
+    "split": "test"
+  },
+  {
+    "id": "test_495",
+    "text": "How do I open up an account for my child?",
+    "label_id": 1,
+    "intent": "age_limit",
+    "split": "test"
+  },
+  {
+    "id": "test_496",
+    "text": "Can I open a bank account for my newborn baby?",
+    "label_id": 1,
+    "intent": "age_limit",
+    "split": "test"
+  },
+  {
+    "id": "test_497",
+    "text": "How old do I have to be to open an account?",
+    "label_id": 1,
+    "intent": "age_limit",
+    "split": "test"
+  },
+  {
+    "id": "test_498",
+    "text": "Do you offer services for children to have money saving experience?",
+    "label_id": 1,
+    "intent": "age_limit",
+    "split": "test"
+  },
+  {
+    "id": "test_499",
+    "text": "If my kids wanted to use your service how old would they have to be?",
+    "label_id": 1,
+    "intent": "age_limit",
+    "split": "test"
+  }
+]

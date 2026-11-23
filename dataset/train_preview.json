@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "train_0",
+    "text": "I am still waiting on my card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_1",
+    "text": "What can I do if my card still hasn't arrived after 2 weeks?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_2",
+    "text": "I have been waiting over a week. Is the card still coming?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_3",
+    "text": "Can I track my card while it is in the process of delivery?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_4",
+    "text": "How do I know if I will get my card, or if it is lost?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_5",
+    "text": "When did you send me my new card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_6",
+    "text": "Do you have info about the card on delivery?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_7",
+    "text": "What do I do if I still have not received my new card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_8",
+    "text": "Does the package with my card have tracking?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_9",
+    "text": "I ordered my card but it still isn't here",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_10",
+    "text": "Why has my new card still not come?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_11",
+    "text": "I still haven't received my card after two weeks, is it lost?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_12",
+    "text": "Can you track my card for me?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_13",
+    "text": "Is there a way to track the delivery of my card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_14",
+    "text": "It's been a week since I ordered my card and it's not here. Please help?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_15",
+    "text": "Will I be able to track the card that was sent to me?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_16",
+    "text": "I don't have my card in 1 week.  Should I be worried?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_17",
+    "text": "How do I know when my new card is going to arrive?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_18",
+    "text": "My new card has not been delivered to my home yet. What is going on?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_19",
+    "text": "It's been a week since you issued me a card and I still didn't get it. Should I keep waiting?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_20",
+    "text": "On the card that is coming, what's the tracking info?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_21",
+    "text": "What is the status of my card's delivery?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_22",
+    "text": "Have you sent out my card yet?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_23",
+    "text": "My card isn't here yet.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_24",
+    "text": "where is my new card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_25",
+    "text": "It's been a week since you sent my card and I still don't have it.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_26",
+    "text": "How do I track the card you sent me?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_27",
+    "text": "When will I recieve my new card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_28",
+    "text": "When will I get my new card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_29",
+    "text": "What is the expected delivery date for my card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_30",
+    "text": "Is there a tracking number for the card you sent me?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_31",
+    "text": "I would like to track the card you sent to me.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_32",
+    "text": "Has my card been lost in delivery?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_33",
+    "text": "My new card hasn't came in.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_34",
+    "text": "Where is the card I ordered 2 weeks ago?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_35",
+    "text": "Can I get an update on my replacement card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_36",
+    "text": "How long does it take for a new card to ship?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_37",
+    "text": "What's the tracking on the card you sent?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_38",
+    "text": "I haven't received my card and am worried it is lost.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_39",
+    "text": "My card still hasn't been delivered",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_40",
+    "text": "I need to find out where the card is that I ordered.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_41",
+    "text": "Where is my credit card that was to be mailed?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_42",
+    "text": "I ordered my card but it hasn't been delivered yet",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_43",
+    "text": "Am I able to track the card that was just sent to me?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_44",
+    "text": "Can you tell me why I haven't received my new card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_45",
+    "text": "I'm still waiting for my new card.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_46",
+    "text": "Is my card lost? I am still waiting for it to be delivered.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_47",
+    "text": "Should I keep waiting for my card to be delivered?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_48",
+    "text": "Can I track when my card will be delivered?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_49",
+    "text": "How can I check on the status of my new card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_50",
+    "text": "A card has been sent to me, how do I track it?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_51",
+    "text": "Is there a way I can get my card expedited?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_52",
+    "text": "What can I do to track the card you sent me?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_53",
+    "text": "why hasnt my card come in yet?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_54",
+    "text": "How can I periodically check the delivery of the card you sent?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_55",
+    "text": "What's the reason my new card hasn't come?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_56",
+    "text": "How long does it take for me to get my new card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_57",
+    "text": "I don't have my card after 1 week. What are my next steps?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_58",
+    "text": "I know I'm getting a new card but would like know when I can expect to receive it.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_59",
+    "text": "I want to find out what happened to my new card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_60",
+    "text": "Was there a way for me to get tracking for that?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_61",
+    "text": "I am still waiting for my card.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_62",
+    "text": "My card hasn't arrived.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_63",
+    "text": "Can I track the card you sent to me?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_64",
+    "text": "I haven't gotten my new card.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_65",
+    "text": "How long should it take for my new card to arrive in them mail? What should I do if I never receive it?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_66",
+    "text": "Will I have to wait much longer for my new card to arrive?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_67",
+    "text": "how to track the card you sent",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_68",
+    "text": "2 weeks ago I ordered my new card.  It isn't here.  What should I do?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_69",
+    "text": "How can I check on the delivery status of my card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_70",
+    "text": "My card has not been delivered yet and its been a week since I ordered it, please help",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_71",
+    "text": "What's the expected wait time to recieve my new card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_72",
+    "text": "How can I see the progress of delivery of the card that was sent?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_73",
+    "text": "My card was supposed to arrive, but hasn't?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_74",
+    "text": "I ordered a card and would like to know how to track the delivery progress of it.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_75",
+    "text": "How long will it take for me to get my card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_76",
+    "text": "My card hasn't shown up yet.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_77",
+    "text": "Does the card you sent have a tracking number?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_78",
+    "text": "My card hasn't arrived in the mail yet. I ordered it two weeks ago. What can I do?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_79",
+    "text": "maximum how many days get the courier?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_80",
+    "text": "Is there a reason my new card hasn't arrived yet?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_81",
+    "text": "I've been waiting a while for my card, is there a way to know when it will arrive?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_82",
+    "text": "How can I track my card's delivery?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_83",
+    "text": "Can I track the card that was just sent to me?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_84",
+    "text": "If I ordered my new card last week, how much longer should I wait to receive it?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_85",
+    "text": "What's go on, where is my new card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_86",
+    "text": "Where is my new card if I haven't received it yet?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_87",
+    "text": "Where is my card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_88",
+    "text": "Can you tell me why I haven't received my new card yet?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_89",
+    "text": "Is there a way to track my card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_90",
+    "text": "Is there a way to track the new card you sent me?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_91",
+    "text": "I'm still waiting for my card.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_92",
+    "text": "What do I need to do to get my new card which I have requested 2 weeks ago?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_93",
+    "text": "WHAT IS THE SOLUTION OF THIS PROBLEM",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_94",
+    "text": "Could I get tracking on the card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_95",
+    "text": "Can you help me track my card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_96",
+    "text": "Shouldn't my new card be here by now?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_97",
+    "text": "Is there a reason my new card hasn't arrived?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_98",
+    "text": "I would like to track a card sent to me, how do I do that?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_99",
+    "text": "Is there a tracking number for the card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_100",
+    "text": "can you share card tracking number?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_101",
+    "text": "I have not received my card and it's been a week, what do I do?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_102",
+    "text": "Is there a way I can check on the card on route to me?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_103",
+    "text": "When will my new card arrive?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_104",
+    "text": "Why haven't I received my new card yet?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_105",
+    "text": "What is the expected delivery date of my card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_106",
+    "text": "My card hasn't came in the mail yet?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_107",
+    "text": "I haven't received my card.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_108",
+    "text": "Is it possible for me to track the card is was mailed to me?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_109",
+    "text": "When will my new card be delivered?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_110",
+    "text": "I was issued a card about a week ago. why hasn't it come in yet?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_111",
+    "text": "Can you please tell me where my card is? I ordered it 2 weeks ago!",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_112",
+    "text": "I still haven't received my card in the mail",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_113",
+    "text": "I'm still waiting for my card that was issued a week ago. What should I do?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_114",
+    "text": "I still haven't gotten my new card.  When will it get here?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_115",
+    "text": "Do you have a tracking number for the card I was sent?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_116",
+    "text": "How do I track the card you sent to me?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_117",
+    "text": "Is my new bank card on the way and is there a way to track it?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_118",
+    "text": "Could you send me and up date on the arrival of my card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_119",
+    "text": "How long does it take to recieve my new card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_120",
+    "text": "My card has not come in the mail yet.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_121",
+    "text": "What's the card you sent me's tracking number?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_122",
+    "text": "i havent got my card",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_123",
+    "text": "Why hasn't my card arrived yet?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_124",
+    "text": "I thought I would have received my new card at this point.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_125",
+    "text": "How long until my new card gets here?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_126",
+    "text": "How much longer until I get my new card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_127",
+    "text": "Am I able to track a card that has already been sent?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_128",
+    "text": "Is it possible to track the card you sent me?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_129",
+    "text": "How long will it be to get this new card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_130",
+    "text": "how can i track card you sent",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_131",
+    "text": "Can the card was sen to me be tracked?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_132",
+    "text": "why have i not got my new card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_133",
+    "text": "I need to track the card sent to me.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_134",
+    "text": "It's been two weeks and I haven't gotten my card, what do I do?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_135",
+    "text": "I was expecting my new card by now.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_136",
+    "text": "Where is the tracking number for the card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_137",
+    "text": "I was issued a new card a week ago but still haven't received it. How long will it be until I receive it?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_138",
+    "text": "Can I track the card that you sent me in the mail?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_139",
+    "text": "Can you tell me if I can track the card you sent me?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_140",
+    "text": "Why have I not gotten my new card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_141",
+    "text": "I'm still waiting on my new card to be delivered!",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_142",
+    "text": "My new card isn't here and it was issued a week ago.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_143",
+    "text": "I was supposed to receive my new card by now, but it hasn't came in.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_144",
+    "text": "Is a tracking number available for the card that was just sent?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_145",
+    "text": "Why haven't I gotten my new card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_146",
+    "text": "Was there a number to track that I could get?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_147",
+    "text": "How much longer is it going to take to get my new card?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_148",
+    "text": "I haven't gotten my credit card in the mail.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_149",
+    "text": "My card hasn't arrived yet. What do I do?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_150",
+    "text": "My card still hasn't arrived after two weeks, now what?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_151",
+    "text": "My card appears to have never arrived?",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_152",
+    "text": "My card never arrived.",
+    "label_id": 11,
+    "intent": "card_arrival",
+    "split": "train"
+  },
+  {
+    "id": "train_153",
+    "text": "My card has been found. Is there any way for me to put it back into the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_154",
+    "text": "I was able to find my card. How to I go about putting it into my app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_155",
+    "text": "how do I get my card to show in the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_156",
+    "text": "I just got my card.  It's not linked yet--how do I do that?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_157",
+    "text": "lost card found, want to put it back in app",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_158",
+    "text": "I just got a card, how can I add it to the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_159",
+    "text": "Is there any way to see my card in the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_160",
+    "text": "If I find a card I lost do I need to dispose of it? Or can I re-active the card and continue to use it?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_161",
+    "text": "I found my card. How can I put it into my app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_162",
+    "text": "How do I make my card show up in the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_163",
+    "text": "Can you show me where to link the new card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_164",
+    "text": "I found my old card. Can I link it back into the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_165",
+    "text": "Show me how to link the new card,",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_166",
+    "text": "How do I add an existing card to the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_167",
+    "text": "I finally got my card.  Now I want to link it.  Is that something you have to do or can I do that?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_168",
+    "text": "How do I link one of your card that I already have?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_169",
+    "text": "If I have a physical card can I link it?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_170",
+    "text": "I found my lost card in my jacket pocket this morning so I'd like to reactivate it please.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_171",
+    "text": "Can I add a card that I just found (again) to the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_172",
+    "text": "How can I make my card show up in the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_173",
+    "text": "I would like to re-activate my card, it was previously reported  lost but I found it this morning.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_174",
+    "text": "Okay, I found my card, can I put it back in the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_175",
+    "text": "Can I reactivate a card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_176",
+    "text": "I would like to reactivate a card and wondered if that could be done?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_177",
+    "text": "I got my card now, how do I make it show up in the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_178",
+    "text": "How do I link an existing card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_179",
+    "text": "How do I link a new card in the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_180",
+    "text": "The card I thought was lost was just in my jacket, so can I reactivate it since I found it this morning?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_181",
+    "text": "I already have a card and want to link it",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_182",
+    "text": "Can you please reactivate my card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_183",
+    "text": "Where do I go to add a new card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_184",
+    "text": "I want my card I just received to show up in the app. How do I do that?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_185",
+    "text": "I received my card, how do I get it to show in the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_186",
+    "text": "If I have a credit card with you how I get set up to link to it?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_187",
+    "text": "How do I add my new card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_188",
+    "text": "I want to reactivate my card, I thought I had lost it but found it again this morning.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_189",
+    "text": "I need a card reactivation, I had reported my card lost but I ran across it in my jacket.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_190",
+    "text": "My card is no longer lost. How do I enter it back into the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_191",
+    "text": "I want to reactivate my card, I thought I had lost it but found it again in my jacket.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_192",
+    "text": "May I reactivate my card? I previously reported it lost, but have now found it safe and sound.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_193",
+    "text": "How do I reactivate a card I thought I lost?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_194",
+    "text": "Help me figure out how to link the new card.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_195",
+    "text": "I found my lost card. Am I still able to use it?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_196",
+    "text": "Will I need a new card or can I put my old card back into the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_197",
+    "text": "Is there a way to link the card i just got?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_198",
+    "text": "How do I add a new card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_199",
+    "text": "I want to reactivate my card, I found it after thinking it was lost.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_200",
+    "text": "Can I put my old card back in the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_201",
+    "text": "I got a new card, how do I link it?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_202",
+    "text": "I found the card I thought I lost this morning. Can I reactivate this card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_203",
+    "text": "How do i go about linking a new card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_204",
+    "text": "how do i get the card linked",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_205",
+    "text": "I have one of your cards, but I don't know how to link it.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_206",
+    "text": "how do I link an old card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_207",
+    "text": "I received my card. How do I link it to the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_208",
+    "text": "Now that I have my card, how do I connect it to the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_209",
+    "text": "How do I add the card I just received to show up in the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_210",
+    "text": "I want to reactivate my card, I thought I had lost it but I found it.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_211",
+    "text": "What do I need to do to link my new card for my account?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_212",
+    "text": "Can I add a card to back into the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_213",
+    "text": "I want to link my new card. Can you help?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_214",
+    "text": "What is the process to link the new card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_215",
+    "text": "I found my card, am I able to put it back into the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_216",
+    "text": "I have found my lost or stolen card, would I still have to activate the new card that was sent to me through the mail in order to access my account?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_217",
+    "text": "Where can I link a new card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_218",
+    "text": "How do I add a card on to the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_219",
+    "text": "I found my card in my jacket this morning, so can I reactivate it?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_220",
+    "text": "I've obtained the card, how do I enable it on the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_221",
+    "text": "I need to find the card I received in the app.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_222",
+    "text": "How do I get my card on the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_223",
+    "text": "In the app, how can I make it show the new card that arrived?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_224",
+    "text": "How do I link my new card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_225",
+    "text": "Can I activate a card in the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_226",
+    "text": "I want to link to my card card with you, how?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_227",
+    "text": "I would like to link my card to my account.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_228",
+    "text": "I thought I lost my card so I cancelled it, but recently I found it in my jacket and I would like to re-establish the card.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_229",
+    "text": "How can I link the new card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_230",
+    "text": "I got a new card and can't find where to link it.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_231",
+    "text": "Hey, I have my card, how do I get it to show in the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_232",
+    "text": "Where in the app do I go to make my new card show up?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_233",
+    "text": "Where do I scan my card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_234",
+    "text": "Can I reactivate my card? I reported it lost and found it this morning in my jacket.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_235",
+    "text": "Can I link my card I previously received?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_236",
+    "text": "I want to reactivate my card, I thought I had lost it but found it again in my jacket this morning.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_237",
+    "text": "I'd lke my card reactivated, I was thinking it was misplaced but I discovered when I woke up that I had left it in my coat.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_238",
+    "text": "You sent me a card and now I want to link it.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_239",
+    "text": "How do I add my new card to the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_240",
+    "text": "Can I add a card back to the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_241",
+    "text": "What if I want to add a card I already have to the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_242",
+    "text": "I recently reported my card as missing/lost, and I just found it. Can I still use it?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_243",
+    "text": "Could I reactivate my card please, I couldn't find it but it turns out it was in my jacket pocket.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_244",
+    "text": "Is there a way to link cards if I have one of yours?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_245",
+    "text": "If my card was lost or stolen can I re-link it?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_246",
+    "text": "How do I link a new card to an existing one?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_247",
+    "text": "How do I link a new payment card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_248",
+    "text": "I would like to reactivate my card that I previously reported lost. I located the card this morning.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_249",
+    "text": "Card has been received, how will it show up on the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_250",
+    "text": "Can I re-link a lost card with the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_251",
+    "text": "What do I do to link my new card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_252",
+    "text": "Is it possible to link a new card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_253",
+    "text": "I deactivated my card but would like to reactivate it.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_254",
+    "text": "I found my card that I thought I had lost, I need to reactive it, please help.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_255",
+    "text": "can I link a card of yours I already have?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_256",
+    "text": "Can I put my found card back into the app on my phone?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_257",
+    "text": "My card arrived but I need to make it work in the app, how do I do that?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_258",
+    "text": "I found the card that I thought I lost, and I would like to reactivate it.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_259",
+    "text": "I found my card again. Can I put it back into the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_260",
+    "text": "I need some help linking my new card.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_261",
+    "text": "help me link my card",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_262",
+    "text": "How do I link my card in the app.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_263",
+    "text": "How do I get my card into the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_264",
+    "text": "I found my card! Can I link it back into the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_265",
+    "text": "How do I reactivate my card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_266",
+    "text": "Where do I go to get my new card linked?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_267",
+    "text": "I thought I lost my card but I found it today, so I would like to reactivate it.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_268",
+    "text": "How do I link the new card that I just got from you guys?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_269",
+    "text": "How can I add a new card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_270",
+    "text": "Can you tell me how to get my card on the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_271",
+    "text": "Is it possible to reactivate the card I thought I lost but found this morning in my jacket?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_272",
+    "text": "How do I make my card appear on the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_273",
+    "text": "How do I link the new card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_274",
+    "text": "Where in the app do I link a new card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_275",
+    "text": "How do I add my card to the app once I get it?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_276",
+    "text": "Can I link your physical card",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_277",
+    "text": "How do I activate and link my new card?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_278",
+    "text": "I got a card, how do I get it in the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_279",
+    "text": "I received my new card.  Where is it in the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_280",
+    "text": "I found my card, how can I use it again?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_281",
+    "text": "I just received a new card, where do I go to link it to my account?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_282",
+    "text": "found card, how to put it back in app",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_283",
+    "text": "How do I see my card in the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_284",
+    "text": "The card I thought I lost was in my jacket pocket this morning, so can I reactivate that?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_285",
+    "text": "I don't see my card anywhere in the app.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_286",
+    "text": "I received my card, how do I get it to work in the app?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_287",
+    "text": "What do I do if I already had a card with you guys?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_288",
+    "text": "if i found a lost card can i put it back in app",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_289",
+    "text": "I have a card that was deactivated can I reactivate it?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_290",
+    "text": "My new card isn't in my app, how do I get it in there?",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_291",
+    "text": "Help me access the card I already got so I can information from it.",
+    "label_id": 13,
+    "intent": "card_linking",
+    "split": "train"
+  },
+  {
+    "id": "train_292",
+    "text": "What is my money worth in other countries?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_293",
+    "text": "Will my money be of equal value when I travel abroad?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_294",
+    "text": "Do you know the rate of exchange?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_295",
+    "text": "What foreign exchange rate will I get on weekdays and on the weekends?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_296",
+    "text": "What is the exchange looking like?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_297",
+    "text": "How is the exchange rate doing?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_298",
+    "text": "I would like to know how exchange rates are calculated when transferring funds.",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_299",
+    "text": "I would like to know what exchange rates you use?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_300",
+    "text": "If I need to cash foreign transfers, how does that work?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_301",
+    "text": "Do you know what your exchange rates are?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_302",
+    "text": "How do I know what exchange rate I will get?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_303",
+    "text": "What are you exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_304",
+    "text": "Do you have the best exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_305",
+    "text": "Where can I find your exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_306",
+    "text": "Your exchange rates come from where?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_307",
+    "text": "I need to know what your exchange rates are.",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_308",
+    "text": "What's the process for exchanges?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_309",
+    "text": "What do you think of the exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_310",
+    "text": "How are exchange rates calculated at this bank?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_311",
+    "text": "What do you use to figure out the exchange rate for the card?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_312",
+    "text": "What's the foreign exchange rate I will receive?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_313",
+    "text": "I need to know what foreign exchange rate I can get.",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_314",
+    "text": "What are the current exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_315",
+    "text": "What exchange rate will I receive?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_316",
+    "text": "What is the basis of your exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_317",
+    "text": "How's the exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_318",
+    "text": "How do you determine your exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_319",
+    "text": "How do the foreign exchange rates work?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_320",
+    "text": "Where are you getting your exchange rates from?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_321",
+    "text": "How is the exchange rate calculated?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_322",
+    "text": "I'm interested in what your exchange rates are based on.",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_323",
+    "text": "How do you decide what the exchange rates are?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_324",
+    "text": "What is the current exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_325",
+    "text": "What is the formula for your exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_326",
+    "text": "What method do you use for the exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_327",
+    "text": "What are Interbanks current exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_328",
+    "text": "from where are coming your exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_329",
+    "text": "How do you calculate exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_330",
+    "text": "Why is your exchange rate different on different days?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_331",
+    "text": "Where can I find the exchange rate for my transfer?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_332",
+    "text": "Where can I get your exchange rates from?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_333",
+    "text": "How do you find the exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_334",
+    "text": "How are exchange rates determined?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_335",
+    "text": "What value can I get for my currency?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_336",
+    "text": "Please explain your exchange rate policy.",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_337",
+    "text": "What are your exchange rates calculated from?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_338",
+    "text": "What is an exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_339",
+    "text": "What is your opinion on the exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_340",
+    "text": "What are the exchange rates you assign?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_341",
+    "text": "How do you determine exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_342",
+    "text": "How are your exchange rates calculated?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_343",
+    "text": "How is an exchange rate calculated?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_344",
+    "text": "When exchanging, how much are the rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_345",
+    "text": "What is the exchange rate for EUR?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_346",
+    "text": "How can I find your exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_347",
+    "text": "Could you please tell me your exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_348",
+    "text": "Is there an exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_349",
+    "text": "How does the exchange rate work?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_350",
+    "text": "What is the present state of the exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_351",
+    "text": "How are foreign exchange rates determined?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_352",
+    "text": "How's the exchange rate looking right now?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_353",
+    "text": "Please explain the exchange rates.",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_354",
+    "text": "What is the foreign exchange rate you will apply?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_355",
+    "text": "explain the interbank exchange rate",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_356",
+    "text": "What will my exchange rate be?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_357",
+    "text": "how do you get exchange rates",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_358",
+    "text": "What exchange rates do you use?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_359",
+    "text": "How will I know what the exchange rate is?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_360",
+    "text": "What factors effect the exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_361",
+    "text": "Where does the exchange rate stand right now?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_362",
+    "text": "I'd like to know what the foreign exchange rate will be.",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_363",
+    "text": "Does the exchange rate change?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_364",
+    "text": "How do your exchange rates factor in?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_365",
+    "text": "Will I know which exchange rate I will get?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_366",
+    "text": "How do I know what the exchange rate will be when I make an exchange.",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_367",
+    "text": "Is the exchange rate the same on weekends as the weekdays?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_368",
+    "text": "How do you do exchanges?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_369",
+    "text": "On what do you base your exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_370",
+    "text": "How do you come up with your exchange rate",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_371",
+    "text": "What factors determine your exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_372",
+    "text": "How are the exchange rates determined?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_373",
+    "text": "I would like to know what your exchange rates are.",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_374",
+    "text": "Is the exchange rate current?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_375",
+    "text": "What are the exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_376",
+    "text": "How much are the rates of exchange?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_377",
+    "text": "How do you decide what your exchange rates are?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_378",
+    "text": "Your exchange rates are coming from where?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_379",
+    "text": "Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_380",
+    "text": "How are the exchange rates for transfers calculated?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_381",
+    "text": "How do I know how much money I will have when I travel abroad?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_382",
+    "text": "How do you do currency exchanges?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_383",
+    "text": "Can you explain your exchange rates basis?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_384",
+    "text": "How did you guys get your exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_385",
+    "text": "Can you tell me your exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_386",
+    "text": "Could you tell me what your exchange rates are?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_387",
+    "text": "Does this app have the same exchange rate as third parties?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_388",
+    "text": "what are your exchange rates at?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_389",
+    "text": "How is the current exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_390",
+    "text": "What is the system for determining the exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_391",
+    "text": "I am travelling and I was wondering what your exchange rates are",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_392",
+    "text": "How can I tell what foreign exchange rate I will get?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_393",
+    "text": "Tell me your opinion on the exchange rate.",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_394",
+    "text": "I'd like to know what you guys look at to decide an exchange rate",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_395",
+    "text": "How does the exchange rate work on this app?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_396",
+    "text": "where do you find your exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_397",
+    "text": "I want to know your exchange rates.",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_398",
+    "text": "What exchange rate is it?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_399",
+    "text": "What is the source of your exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_400",
+    "text": "i need to know about exchange rates",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_401",
+    "text": "Where do you get those exchange rates?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_402",
+    "text": "How do you determine the exchange rate?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_403",
+    "text": "What foreign exchange rate will I get?",
+    "label_id": 32,
+    "intent": "exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_404",
+    "text": "Last Saturday, I was charged extra for the exchange rate on my payment. Is something wrong?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_405",
+    "text": "Hi, I am disappointed to see such a bad exchange rate and hope you can assist me. Would you be able to confirm the official interbank exchange rate for me?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_406",
+    "text": "I think the currency exchange that's been applied is wrong.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_407",
+    "text": "The exchange rate I was charged for a purchase was not right.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_408",
+    "text": "Can you please explain why the exchange rate for the item I bought is wrong?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_409",
+    "text": "I think something went wrong with my exchange between Russian Ruble and UK pounds. I was overcharged during the swap.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_410",
+    "text": "My payment has an incorrect exchange rate.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_411",
+    "text": "my exchange rate looks wrong for my last payment",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_412",
+    "text": "The exchange rate you are using is bad.This can't be the official interbank exchange rate.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_413",
+    "text": "I was charged the wing amount for an item.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_414",
+    "text": "the exchange rate on my payment was wrong",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_415",
+    "text": "Why is the exchange rate terrible?  That can't be close to the actual interbank rate.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_416",
+    "text": "An incorrect exchange rate was applied to an item I bought.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_417",
+    "text": "The exchange rate was incorrect for an item I bought.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_418",
+    "text": "The exchange rate on my payment doesn't look right",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_419",
+    "text": "I just saw the exchange rate you use, but it's so bad that I can't believe that it's the official interbank exchange rate! Is this truly the official interbank exchange rate?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_420",
+    "text": "This exchange rate you use is awful! Please tell me this is a mistake and not the official interbank exchange rate!",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_421",
+    "text": "After purchasing an item I noticed the exchange rate was incorrect.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_422",
+    "text": "The amount of exchange was not correct for the item i bought.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_423",
+    "text": "The exchange rate from my card payment isn't right.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_424",
+    "text": "My exchange rate isn't correct.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_425",
+    "text": "Why was the exchange rate so wrong when I bought something!",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_426",
+    "text": "My exchange rate was wrong for an Item I bought!",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_427",
+    "text": "I was using a foreign currecy to make a payment and the applied the wrong rate.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_428",
+    "text": "The exchange rate was incorrect for this item I bought.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_429",
+    "text": "I purchased something overseas and the incorrect exchange rate was applied.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_430",
+    "text": "The exchange rate is incorrect for my payment.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_431",
+    "text": "The item i bought exchanged rate was incorrect.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_432",
+    "text": "I'm on holiday and I noticed a different amount for exchange rate.  Can you explain?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_433",
+    "text": "I bought something in another country but the exchange rate is wrong",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_434",
+    "text": "I bought an item and the exchange rate was wrong.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_435",
+    "text": "Exchange rate for my card payment is wrong",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_436",
+    "text": "the exchange rate at which my card payment is at is wrong",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_437",
+    "text": "There was a problem with the exchange rate on a purchase.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_438",
+    "text": "I recently purchased something, and the exchange rate was wrong.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_439",
+    "text": "What if there is an error on the exchange rate?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_440",
+    "text": "Why is my exchange rate wrong?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_441",
+    "text": "Please check my payment from last Saturday as I feel I have been overcharged on the exchange rate.  Thank you.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_442",
+    "text": "I used foreign currency to buy something and I think the rate applied is incorrect.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_443",
+    "text": "This exchange rate on my purchase is wrong.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_444",
+    "text": "Why is your exchange rate so bad?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_445",
+    "text": "The exchange rate looks wrong on a holiday purchase",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_446",
+    "text": "I purchased something abroad, and the exchange rate that was applied was wrong.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_447",
+    "text": "I bought something and I take issue with the exchange rate applied.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_448",
+    "text": "I think there has been a mistake on my exchange rate for this purchase.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_449",
+    "text": "You did not give me the correct exchange rate for an item that I bought.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_450",
+    "text": "I checked on google and the exchange rate you are using is really bad. Can you update it?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_451",
+    "text": "I seem to have been charged to much for my holiday purchases, the exchange rate is wrong.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_452",
+    "text": "In regards to my card payment, the exchange rate is incorrect.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_453",
+    "text": "I bough an item and the exchange rate was incorrect.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_454",
+    "text": "Why did you charge me more for my purchase? It was a foreign currency and you didn't offer market rate",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_455",
+    "text": "I question today's exchange rate for rubles into pounds. I was hoping for a better return.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_456",
+    "text": "I feel as though I have been over charged for the exchange rate on my payment on last Saturday.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_457",
+    "text": "My currency rate is inaccurate.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_458",
+    "text": "The currency exchange rate was wrong for a purchase I made.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_459",
+    "text": "I purchased something abroad and the incorrect exchange rate was applied.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_460",
+    "text": "Your exchange rate was off.  I was charged extra on my payment that I made last Saturday.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_461",
+    "text": "I was charged the wrong exchange rate on a purchase",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_462",
+    "text": "Can you change the rate for the item I bought in a different currency as it is wrong?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_463",
+    "text": "The currency exchange for my purchase in foreign currency is incorrect.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_464",
+    "text": "I noticed the currency exchange rate was incorrect after paying for something in a foreign country.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_465",
+    "text": "My foreign currency exchange has been applied incorrectly.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_466",
+    "text": "Why isn't my purchase exchange rate correct?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_467",
+    "text": "I noticed that the exchange rate applied to a recent purchase I made abroad was incorrect.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_468",
+    "text": "I purchased something while traveling, and the exchange rate applied was wrong.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_469",
+    "text": "Why is the exchange rate different on my recent purchase?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_470",
+    "text": "The fee charged when I changed rubles into British pounds was too much.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_471",
+    "text": "I wasn't charged the correct exchange rate for an item I purchased.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_472",
+    "text": "Does the fee for exchange change?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_473",
+    "text": "The rate applied to my purchase in a foreign currency was wrong.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_474",
+    "text": "I bought something while traveling, and the exchange rate was wrong.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_475",
+    "text": "something is wrong with my exchange rate charge",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_476",
+    "text": "Seems like the exchange rate for my payment last Saturday was wrong. I was charged extra.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_477",
+    "text": "It seems that something went wrong with my exchange. I changed Russian Ruble into UK pounds but have been charged entirely too much!",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_478",
+    "text": "I bought an item then noticed the exchange rate was wrong.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_479",
+    "text": "The exchange rate applied is wrong for my international purchase.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_480",
+    "text": "My card payment had the wrong exchange rate",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_481",
+    "text": "They used the wrong rate when I made a purchase with foreign currency.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_482",
+    "text": "Does the exchange rate change each day for purchases? There is a different rate on my purchase.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_483",
+    "text": "It seems that the rate I got is incorrect.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_484",
+    "text": "I exchanged Russian rubles for British pounds today and got less than I expected. Was exchange rate correct?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_485",
+    "text": "Was I charged more than I should of been for a currency exchange?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_486",
+    "text": "What do i do if the exchange rate was wrong for the item i bought overseas?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_487",
+    "text": "My client was converting their Russian ruble into UK pound currency when they noticed their bill was much too high for the exchange. What happened?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_488",
+    "text": "I have been overcharged. I just changed over Russian Ruble to UK pounds and it was too much. It seems something was wrong with my exchange.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_489",
+    "text": "What is your exchange rate between UK pounds and Russian rubles for my last transaction",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_490",
+    "text": "I think there was an error in your exchange rate.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_491",
+    "text": "The exchange rate was not correct for the item I bought.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_492",
+    "text": "I noticed an extra charge on the purchase that I made last Saturday on my account. Can you see if I received the correct exchange rate?",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_493",
+    "text": "My exchange seems to have something wrong with it. I changed over Russian Ruble to UK pounds and it appears I was charged way more than I was supposed to be.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_494",
+    "text": "The correct exchange rate wasn't given to me for an item I purchased.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_495",
+    "text": "I bought something in another currency, but the exchange rate was incorrect.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_496",
+    "text": "the exchange rate is wrong from something I got in another country",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_497",
+    "text": "The exchange rate given to me after a purchase, was incorrect",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_498",
+    "text": "My card payment has the wrong exchange rate",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  },
+  {
+    "id": "train_499",
+    "text": "I have been charged way to much so something is apparently wrong with my exchange. I changed Russian Ruble into UK pounds.",
+    "label_id": 17,
+    "intent": "card_payment_wrong_exchange_rate",
+    "split": "train"
+  }
+]

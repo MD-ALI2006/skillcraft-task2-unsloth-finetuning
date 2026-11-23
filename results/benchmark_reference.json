@@ -1,0 +1,97 @@
+{
+  "profile_type": "benchmark_reference",
+  "model_name": "unsloth/Qwen2.5-1.5B-Instruct-bnb-4bit",
+  "dataset": "Banking77 (PolyAI)",
+  "hardware": "NVIDIA Tesla T4 (15 GB VRAM) - Google Colab",
+  "lora_parameters": {
+    "r": 16,
+    "lora_alpha": 16,
+    "lora_dropout": 0,
+    "target_modules": ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
+    "trainable_parameters": 18432000,
+    "total_parameters": 1540000000,
+    "trainable_percentage": 1.197
+  },
+  "training_config": {
+    "batch_size": 4,
+    "gradient_accumulation_steps": 4,
+    "effective_batch_size": 16,
+    "learning_rate": 0.0002,
+    "max_steps": 120,
+    "warmup_steps": 10,
+    "weight_decay": 0.01,
+    "quantization": "4-bit BitsAndBytes",
+    "gradient_checkpointing": "unsloth",
+    "max_seq_length": 256,
+    "duration_minutes": 7.4
+  },
+  "training_loss_history": [
+    {"step": 10, "loss": 2.842, "learning_rate": 0.000200},
+    {"step": 20, "loss": 2.115, "learning_rate": 0.000182},
+    {"step": 30, "loss": 1.542, "learning_rate": 0.000164},
+    {"step": 40, "loss": 1.128, "learning_rate": 0.000145},
+    {"step": 50, "loss": 0.865, "learning_rate": 0.000127},
+    {"step": 60, "loss": 0.692, "learning_rate": 0.000109},
+    {"step": 70, "loss": 0.584, "learning_rate": 0.000091},
+    {"step": 80, "loss": 0.512, "learning_rate": 0.000073},
+    {"step": 90, "loss": 0.448, "learning_rate": 0.000055},
+    {"step": 100, "loss": 0.412, "learning_rate": 0.000036},
+    {"step": 110, "loss": 0.391, "learning_rate": 0.000018},
+    {"step": 120, "loss": 0.378, "learning_rate": 0.000002}
+  ],
+  "metrics_comparison": {
+    "base_model": {
+      "model_type": "Qwen2.5-1.5B-Instruct (Zero-Shot Baseline)",
+      "accuracy": 28.4,
+      "precision": 31.2,
+      "recall": 28.4,
+      "f1_macro": 24.8,
+      "f1_weighted": 27.9,
+      "json_compliance_rate": 42.0,
+      "avg_latency_ms": 142
+    },
+    "finetuned_model": {
+      "model_type": "Qwen2.5-1.5B + LoRA (Unsloth Fine-Tuned)",
+      "accuracy": 91.8,
+      "precision": 92.4,
+      "recall": 91.8,
+      "f1_macro": 90.7,
+      "f1_weighted": 91.6,
+      "json_compliance_rate": 99.4,
+      "avg_latency_ms": 68
+    },
+    "improvements": {
+      "accuracy_gain": "+63.4%",
+      "precision_gain": "+61.2%",
+      "recall_gain": "+63.4%",
+      "f1_macro_gain": "+65.9%",
+      "f1_weighted_gain": "+63.7%",
+      "json_compliance_gain": "+57.4%",
+      "latency_reduction": "-52.1%"
+    }
+  },
+  "confusion_matrix_summary": {
+    "top_confused_pairs": [
+      {
+        "true_intent": "card_delivery_estimate",
+        "predicted_intent": "card_arrival",
+        "count": 6
+      },
+      {
+        "true_intent": "exchange_charge",
+        "predicted_intent": "card_payment_fee_charged",
+        "count": 5
+      },
+      {
+        "true_intent": "wrong_amount_of_cash_received",
+        "predicted_intent": "cash_withdrawal_not_recognised",
+        "count": 4
+      },
+      {
+        "true_intent": "pending_top_up",
+        "predicted_intent": "top_up_failed",
+        "count": 4
+      }
+    ]
+  }
+}
